@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 1: SQL Foundations
 
 ## ✅ Goals
@@ -22,3 +23,6 @@
 - [ ] Complete 8 SQLBolt lessons
 - [ ] Try 3 LeetCode SQL problems
 - [ ] Document 3 sample queries in `01-sql/queries.sql`
+=======
+## Week 1 – Focus: SQL basics and transformations
+
