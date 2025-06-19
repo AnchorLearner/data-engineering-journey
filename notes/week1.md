@@ -1,1 +1,1 @@
-## Week 1\nFocus: SQL basics and transformations
+## Week 1-Focus: SQL basics and transformations
